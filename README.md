@@ -6,7 +6,7 @@ What's this project?
 # Run
 
 ```
-python main.py kaggle_adcal_2021.Sample --local-scheduler
+python main.py kaggle_adcal_2021.MakeLangGraphPerMAUTask --local-scheduler
 ```
 
 # Test
